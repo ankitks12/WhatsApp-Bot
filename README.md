@@ -1,6 +1,6 @@
 # WhatsApp-Bot
 
-Tired of switching between dark and light mode on WhtatsApp Web every day? Now just run a python script to toggle between the dark and light mode. 
+Tired of switching between dark and light mode on WhatsApp Web every day? Now just run a python script to toggle between the dark and light mode. 
 
 ## How to use?
 
